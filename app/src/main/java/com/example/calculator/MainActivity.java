@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         b1=findViewById(R.id.button);
         b2=findViewById(R.id.button2);
-        b1.setText("Mode: Addition");
+        b1.setText("Mode: Add");
 
         e1=findViewById(R.id.editText);
         e2=findViewById(R.id.editText2);
